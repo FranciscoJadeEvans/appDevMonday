@@ -22,7 +22,7 @@ public static int add(int a, int b) {
     // Group 10: Check if numbers are equal (Members: Jener)
 
     // Group 10: Check if numbers are equal (Members: Lluz)
-
+    // Group 10: Check if numbers are equal (Members: Francisco)
     // Group 10: Check if numbers are equal (Member: Redecio)
     public static boolean isEqual(int a, int b) {
         return a == b;
